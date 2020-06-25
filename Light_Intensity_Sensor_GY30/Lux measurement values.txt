@@ -1,0 +1,9 @@
+
+Night: 0.001-0.02; 
+Moon light night: 0.02-0.3; 
+Cloudy indoor: 5-50;
+Cloudy outdoor: 50-500;
+Sunny indoor: 100-1000;
+Under the sunlight in summer afternoon: about 10*6 power; 
+Reading books for intensity of illumination: 50-60;
+Home video standard intensity of illumination: 1400.
